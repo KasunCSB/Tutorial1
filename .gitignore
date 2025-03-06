@@ -1,3 +1,50 @@
+# Ignore Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# VirtualBox files
+.Ld9VirtualBox/
+
+# Android and other environment-related files
+.android/
+.cache/
+.gitconfig
+.idlerc/
+.lesshst
+.m2/
+.mitmproxy/
+.nbi/
+.packettracer
+.ssh/
+.viminfo
+.viminfo.tmp
+.vscode/
+
+# User-specific and system files
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+
+# Windows system files
+NTUSER.DAT{4ab0822f-ffec-11ee-af10-cc5ef81c5bbc}.TM.blf
+NTUSER.DAT{4ab0822f-ffec-11ee-af10-cc5ef81c5bbc}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{4ab0822f-ffec-11ee-af10-cc5ef81c5bbc}.TMContainer00000000000000000002.regtrans-ms
+
+# OneDrive files
+OneDrive/
+
+# Saved Games and searches
+Saved Games/
+Searches/
+
+# Windows user profile and logs
+ntuser.dat
+ntuser.dat.log1
+ntuser.dat.log2
+ntuser.dat{4a0a4fd2-d33c-11ef-b331-005056c00008}.TM.blf
+ntuser.dat{4a0a4fd2-d33c-11ef-b331-005056c00008}.TMContainer00000000000000000001.regtrans-ms
+ntuser.dat{4a0a4fd2-d33c-11ef-b331-005056c00008}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
